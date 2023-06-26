@@ -9,10 +9,10 @@ You do not need more than one file to build this game with Python. We will use t
 
 The game should display in the terminal like so:
 
-![Hangman in the terminal pt. 1](/hangman_terminal_1.png)
+![Hangman in the terminal pt. 1](/assets/hangman_terminal_1.png)
 
 - Hangman in the terminal - beginning of game.
 
-![Hangman in the terminal pt. 2](/hangman_terminal_2.png)
+![Hangman in the terminal pt. 2](/assets/hangman_terminal_2.png)
 
 - Hangman in the terminal - end of game, displays result.
