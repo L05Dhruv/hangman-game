@@ -11,8 +11,8 @@ The game should display in the terminal like so:
 
 ![Hangman in the terminal pt. 1](/assets/hangman_terminal_1.png)
 
-- Hangman in the terminal - beginning of game.
+- Hangman in the terminal - beginning of game, prompt user to enter letters as guesses.
 
 ![Hangman in the terminal pt. 2](/assets/hangman_terminal_2.png)
 
-- Hangman in the terminal - end of game, displays result.
+- Hangman in the terminal - end of game, displays result - win or loss.
