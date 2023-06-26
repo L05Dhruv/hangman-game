@@ -15,4 +15,6 @@ The game should display in the terminal like so:
 
 ![Hangman in the terminal pt. 2](/assets/hangman_terminal_2.png)
 
-- Hangman in the terminal - end of game, displays result - win or loss.
+- Hangman in the terminal - end of game, displays result - win or loss
+
+Good luck and happy coding!
