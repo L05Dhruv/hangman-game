@@ -1,5 +1,7 @@
 # Hangman
 
+## Give this repo a star
+
 #### Your objective is to create the game hangman using Python
 This will test your knowledge of python fundamentals and programming skills.
 
